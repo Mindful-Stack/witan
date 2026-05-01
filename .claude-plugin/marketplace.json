@@ -1,0 +1,18 @@
+{
+  "name": "witan",
+  "description": "The Mindful Stack AI dev family — a council of plugins for Claude Code, named after the Anglo-Saxon witan: an assembly of wise advisors counselling the realm.",
+  "owner": {
+    "name": "Mindful Stack",
+    "url": "https://github.com/Mindful-Stack"
+  },
+  "plugins": [
+    {
+      "name": "lorekeeper",
+      "description": "Knowledge-base access, PR review, and domain context for development. The witan member who keeps the lore.",
+      "source": {
+        "source": "github",
+        "repo": "Mindful-Stack/lorekeeper"
+      }
+    }
+  ]
+}
