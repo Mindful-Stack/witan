@@ -1,6 +1,6 @@
 {
   "name": "witan",
-  "description": "The Mindful Stack AI dev family — a council of plugins for Claude Code, named after the Anglo-Saxon witan: an assembly of wise advisors counselling the realm.",
+  "description": "Claude Code plugins from the Witan — Mindful Stack's family of AI dev tools, named after the Anglo-Saxon council of wise advisors. This marketplace lists the Witan members that ship as Claude Code plugins; non-plugin members (orchestrators, CLIs) are distributed elsewhere.",
   "owner": {
     "name": "Mindful Stack",
     "url": "https://github.com/Mindful-Stack"
