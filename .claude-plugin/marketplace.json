@@ -7,9 +7,9 @@
   },
   "plugins": [
     {
-      "name": "lorekeeper",
-      "version": "1.2.0",
-      "description": "Knowledge-base access, PR review, and domain context for development. The witan member who keeps the lore.",
+      "name": "lore",
+      "version": "2.0.0",
+      "description": "Lorekeeper — knowledge-base access, PR review, and domain context for development. The witan member who keeps the lore.",
       "source": {
         "source": "github",
         "repo": "Mindful-Stack/lorekeeper"

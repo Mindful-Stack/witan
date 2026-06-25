@@ -18,12 +18,12 @@ Inside Claude Code:
 
 | Plugin | Role | Status |
 |--------|------|--------|
-| [lorekeeper](https://github.com/Mindful-Stack/lorekeeper) | Keeper of knowledge — domain context, pattern lookup, PR review | Available |
+| [lore](https://github.com/Mindful-Stack/lorekeeper) | Lorekeeper — keeper of knowledge: domain context, pattern lookup, PR review | Available |
 
 Install a member:
 
 ```text
-/plugin install lorekeeper@witan
+/plugin install lore@witan
 ```
 
 ## The wider Witan
