@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "lore",
-      "version": "2.5.0",
+      "version": "2.6.0",
       "description": "Lorekeeper — knowledge-base access, PR review, and domain context for development. The witan member who keeps the lore.",
       "source": {
         "source": "github",
