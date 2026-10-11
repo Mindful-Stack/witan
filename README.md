@@ -65,4 +65,4 @@ Not yet codified — open an issue if you have a candidate.
 
 ## Licence
 
-Marketplace metadata is unlicensed (effectively public domain). Each plugin in the council carries its own licence — see the linked repos.
+MIT — see [LICENSE](LICENSE). Each plugin in the council also carries its own licence; the plugins listed above are MIT too.
