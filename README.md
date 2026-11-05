@@ -32,7 +32,7 @@ Not every Witan member is a Claude Code plugin. Some are independent application
 
 | Member | Form | Role | Status |
 |--------|------|------|--------|
-| reeve | Orchestrator app | Steward of the project — coming soon | Planned |
+| [reeve](https://github.com/Mindful-Stack/reeve) | Planning app (server, CLI, TUI, web) | Steward of the plan: initiatives, epics and stories, and the decisions they wait on; Lorekeeper's planning skills drive its CLI | Available |
 
 Apps are distributed via their own repos and release channels — see each member's README for setup. They share the medieval-role naming and the Mindful Stack ethos, but not this marketplace's install path.
 
